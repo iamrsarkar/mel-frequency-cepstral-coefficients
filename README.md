@@ -23,18 +23,18 @@ This repository contains a complete pipeline for extracting **Mel-Frequency Ceps
 ├── notebook/
 │   └── extraction.ipynb            # Main notebook with full MFCC pipeline
 ├── output/                         # Output plots/images for each stage
-│   ├── main\_fft.png
-│   ├── main\_framing.png
-│   ├── main\_mel.png
-│   ├── main\_mfcc.png
-│   ├── main\_mfcc\_delta.png
-│   ├── main\_preemphasis.png
-│   ├── main\_wave.png
-│   ├── main\_window\.png
-│   ├── main\_window\_subplot.png
+│   ├── main_fft.png
+│   ├── main_framing.png
+│   ├── main_mel.png
+│   ├── main_mfcc.png
+│   ├── main_mfcc_delta.png
+│   ├── main_preemphasis.png
+│   ├── main_wave.png
+│   ├── main_window.png
+│   ├── main_window_subplot.png
 │   ├── mfcc.png
-│   └── spectrogram\_windows.png
-├── MelFrequencyCepstralCoefficients\_Explained.pdf   # PDF explanation/report
+│   └── spectrogram_windows.png
+├── MelFrequencyCepstralCoefficients_Explained.pdf   # PDF explanation/report
 ├── README.md
 └── requirements.txt                # Dependencies
 
@@ -60,20 +60,20 @@ This repository contains a complete pipeline for extracting **Mel-Frequency Ceps
 ## 📄 How to Run
 
 1. Clone this repo:
-   ```bash
+   ```
    git clone https://github.com/iamrsarkar/mel-frequency-cepstral-coefficients.git
    cd mel-frequency-cepstral-coefficients
 ````
 
 2. Install dependencies:
 
-   ```bash
+   ```
    pip install -r requirements.txt
    ```
 
 3. Open the Jupyter Notebook:
 
-   ```bash
+   ```
    jupyter notebook notebook/extraction.ipynb
    ```
 
