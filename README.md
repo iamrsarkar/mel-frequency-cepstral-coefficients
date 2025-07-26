@@ -69,13 +69,14 @@ This repository contains a complete pipeline for extracting **Mel-Frequency Ceps
 
    ```
    pip install -r requirements.txt
-   ```
+   ````
 
 3. Open the Jupyter Notebook:
 
    ```
    jupyter notebook notebook/extraction.ipynb
-   ```
+   ````
+   
 
 ---
 
