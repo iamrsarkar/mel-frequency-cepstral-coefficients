@@ -59,21 +59,22 @@ This repository contains a complete pipeline for extracting **Mel-Frequency Ceps
 
 ## 📄 How to Run
 
-1. Clone this repo:
    ```
+1. Clone this repo:
+
    git clone https://github.com/iamrsarkar/mel-frequency-cepstral-coefficients.git
    cd mel-frequency-cepstral-coefficients
-````
+
 
 2. Install dependencies:
 
-   ```
+   
    pip install -r requirements.txt
-   ````
+   
 
 3. Open the Jupyter Notebook:
 
-   ```
+   
    jupyter notebook notebook/extraction.ipynb
    ````
    
@@ -104,16 +105,6 @@ RKMVERI, Belur Math, India
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License. Feel free to use or modify for academic/non-commercial purposes.
 
-```
 
----
-
-Let me know if you want me to generate:
-- A `requirements.txt` file from your environment
-- A `.py` version of the notebook for script execution
-- GitHub Pages for documentation or demo visuals
-```
